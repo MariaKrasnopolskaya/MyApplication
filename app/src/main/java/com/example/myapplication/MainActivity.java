@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
     private int counter = 0;
     private TextView tv;
 
+    //комментрарий
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
